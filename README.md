@@ -1,26 +1,6 @@
 <html>
 <head>
-<style>
-h1,h2{
-    color: Gray;
-    text-align: center; 
-    font-size: 25px;
-    font-family: Courier New; 
-}
 
-p{
-    color: LightGray;
-    font-family:Courier;
-}
-
-img{
-    margin-left: 50px;
-    width: 600px;
-    padding-top: 5px;
-    padding-bottom: 5px;
-
-}
-</style>
 </head>    
 <body>
 
