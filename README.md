@@ -21,7 +21,7 @@
 <p> Foi possivel concluir de acordo com a analise que o ano de 2022 foi mais lucrativo para o alugueis de bicicletas do que em 2023, uma das possibilidades para tal fato tenha sido o dia da semana que ocorreu o feriado de Natal, quanto maior o feriado mais probabilidade de alugar. Com isso em mente e tento em vista que o natal cai no meio de semana esse ano, pode esperar também lucros menores que no ano de 2022, contudo pode ser maior que o 2023 pois acabar acarretando um feriado no meio da semana
 
 
-<img decoding="async" fetchpriority="high" width="530" height="324" alt="Pode conter: two hands are typing on a laptop keyboard with yellow sticky notes around them and the screen is empty" class="hCL kVc L4E MIw"  src="https://i.pinimg.com/originals/15/bc/1a/15bc1a87577971e7b031a7d7c7140af6.gif">
+<img decoding="async" fetchpriority="high" width="530" height="324" alt="Pode conter: two hands are typing on a laptop keyboard with yellow sticky notes around them and the screen is empty" class="hCL kVc L4E MIw"  src="https://i.pinimg.com/originals/15/bc/1a/15bc1a87577971e7b031a7d7c7140af6.gif">   
 
 
 <style>
