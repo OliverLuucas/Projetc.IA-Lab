@@ -6,8 +6,17 @@
 
 Foi feito o reconhecimento facial capaz de identificar um rosto ou mais de um usando a ferramenta Face do Azure, assim como pode ser visualizado a captura ela pode inclusive identificar caso o rosto em análise esteja até usando alguma coisa do rosto, como óculos, bonés etc...
 
+# Detecção de rostos usando algum obstrução na face 
+<img src="C:\Users\oliver\Pictures\AI-LAB900\Output\Screenshot_1.jpg">
+
+# --------------------------------------------------------
+<img src="C:\Users\oliver\Pictures\AI-LAB900\Output\Screenshot_2.png">
 
 
+# --------------------------------------------------------
+# Aqui vemos a detecção de textos
+<img src="C:\Users\oliver\Pictures\AI-LAB900\Output\Screenshot_3.png">
 
+# --------------------------------------------------------
 
-
+<img src="C:\Users\oliver\Pictures\AI-LAB900\Output\Screenshot_4.png">
